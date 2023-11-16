@@ -16,7 +16,7 @@
         "Desinfektionsmittel": "befüllt"
       },
       {
-        "Datum": "19/11/2023",
+        "Datum": "20/11/2023",
         "Status": "belegt",
         "Wischen": 65,
         "Bett": 10.91,
@@ -25,7 +25,7 @@
         "Desinfektionsmittel": "befüllt"
       },
       {
-                "Datum": "19/11/2023",
+                "Datum": "21/11/2023",
         "Status": "belegt",
         "Wischen": 65,
         "Bett": 10.91,
@@ -34,7 +34,7 @@
         "Desinfektionsmittel": "befüllt"
       },
       {
-                "Datum": "19/11/2023",
+                "Datum": "22/11/2023",
         "Status": "belegt",
         "Wischen": 65,
         "Bett": 10.91,
@@ -43,7 +43,7 @@
         "Desinfektionsmittel": "befüllt"
       },
       {
-               "Datum": "19/11/2023",
+               "Datum": "23/11/2023",
         "Status": "belegt",
         "Wischen": 65,
         "Bett": 10.91,
@@ -52,27 +52,13 @@
         "Desinfektionsmittel": "befüllt"
       },
       {
-                "Datum": "19/11/2023",
+                "Datum": "24/11/2023",
         "Status": "belegt",
         "Wischen": 65,
         "Bett": 10.91,
         "Badezimmer": 54.09,
         "Notruf": "aktiv",
         "Desinfektionsmittel": "befüllt"
-      },
-      {
-        "id": 8,
-        "Monat": "März 2024",
-        "Abschlag": 80,
-        "Energiepreisbremse": 0,
-        "OffenerBetrag": 80
-      },
-      {
-        "id": 9,
-        "Monat": "April 2024",
-        "Abschlag": 80,
-        "Energiepreisbremse": 0,
-        "OffenerBetrag": 80
       }
      
     ]
