@@ -1,0 +1,95 @@
+{
+  "1234567890": {
+    "Kundennummer": "PN07031994",
+    "Name": "Carrie",
+    "Nachname": "Schmidt",
+    "Jahr": "2023-2024",
+    "Verbrauch": "836 kWh",
+    "Monate": [
+      {
+        "id": 40123455,
+        "Monat": "August 2023",
+        "Abschlag": 65,
+        "Energiepreisbremse": 10.91,
+        "OffenerBetrag": 0
+      },
+      {
+        "id": 2,
+        "Monat": "September 2023",
+        "Abschlag": 65,
+        "Energiepreisbremse": 10.91,
+        "OffenerBetrag": 54.09
+      },
+      {
+        "id": 3,
+        "Monat": "Oktober 2023",
+        "Abschlag": 80,
+        "Energiepreisbremse": 10.91,
+        "OffenerBetrag": 69.09
+      },
+      {
+        "id": 4,
+        "Monat": "November 2023",
+        "Abschlag": 80,
+        "Energiepreisbremse": 10.91,
+        "OffenerBetrag": 69.09
+      },
+      {
+        "id": 5,
+        "Monat": "Dezember 2023",
+        "Abschlag": 80,
+        "Energiepreisbremse": 10.91,
+        "OffenerBetrag": 69.09
+      },
+      {
+        "id": 6,
+        "Monat": "Januar 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 7,
+        "Monat": "Februar 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 8,
+        "Monat": "März 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 9,
+        "Monat": "April 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 10,
+        "Monat": "Mai 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 11,
+        "Monat": "Juni 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      },
+      {
+        "id": 12,
+        "Monat": "Juli 2024",
+        "Abschlag": 80,
+        "Energiepreisbremse": 0,
+        "OffenerBetrag": 80
+      }
+    ]
+  }
+}
