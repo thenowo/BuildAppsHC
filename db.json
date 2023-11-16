@@ -10,7 +10,7 @@
         "Datum": "19/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
+        "Bett": "Bett: Keine Aktion",
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
         "Desinfektionsmittel": "Desinfektionsmittel nachfüllen",
@@ -20,31 +20,31 @@
         "Datum": "20/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
-        "Badezimmer": "",
+        "Bett": "Bett: Keine Aktion",
+        "Badezimmer": "Badezimmer: Keine Aktion",
         "Notruf": "Notruf prüfen",
-        "Desinfektionsmittel": "Desinfektionsmittel nachfüllen",
-        "Dienststatus": "Reinigung steht aus"
+        "Desinfektionsmittel": "Desinfektionsmittel: Keine Aktion",
+        "Dienststatus": "Reinigung wurde bestätigt"
       },
       {
         "Datum": "21/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
+        "Bett": "Bett: Keie Aktion",
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
-        "Desinfektionsmittel": "",
-        "Dienststatus": "Reinigung steht aus"
+        "Desinfektionsmittel": "Desinfektionsmittel: Keine Aktion",
+        "Dienststatus": "Reinigung ist noch nicht bestätigt"
       },
       {
         "Datum": "22/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
+        "Bett": "Bett: Keie Aktion",
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
-        "Desinfektionsmittel": "",
-        "Dienststatus": "Reinigung steht aus"
+        "Desinfektionsmittel": "Desinfektionsmittel: Keine Aktion",
+        "Dienststatus": "Reinigung ist noch nicht bestätigt"
       },
       {
         "Datum": "23/11/2023",
@@ -54,27 +54,27 @@
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
         "Desinfektionsmittel": "Desinfektionsmittel nachfüllen",
-        "Dienststatus": "Reinigung steht aus"
+        "Dienststatus": "Reinigung ist noch nicht bestätigt"
       },
       {
         "Datum": "24/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
-        "Badezimmer": "",
+        "Bett": "Bett: Keine Aktion",
+        "Badezimmer": "Badezimmer: Keine Aktion",
         "Notruf": "Notruf prüfen",
-        "Desinfektionsmittel": "",
-        "Dienststatus": "Reinigung steht aus"
+        "Desinfektionsmittel": "Desinfektionsmittel: Keine Aktion",
+        "Dienststatus": "Reinigung ist noch nicht bestätigt"
       },
       {
         "Datum": "25/11/2023",
         "Status": "belegt",
         "Wischen": "Boden wischen",
-        "Bett": "",
+        "Bett": "Bett: Keine Aktion",
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
-        "Desinfektionsmittel": "",
-        "Dienststatus": "Reinigung steht aus"
+        "Desinfektionsmittel": "Desinfektionsmittel: Keine Aktion",
+        "Dienststatus": "Reinigung ist noch nicht bestätigt"
       }     
     ]
   }
