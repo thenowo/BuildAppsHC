@@ -14,7 +14,7 @@
         "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
         "Desinfektionsmittel": "Desinfektionsmittel nachfüllen",
-        "Dienststatus": "Reinigung bestätigt"
+        "Dienststatus": "Reinigung wurde bestätigt"
       },
       {
         "Datum": "20/11/2023",
@@ -41,7 +41,7 @@
         "Status": "belegt",
         "Wischen": "Boden wischen",
         "Bett": "",
-        "Badezimmer": "ja",
+        "Badezimmer": "Badezimmer reinigen",
         "Notruf": "Notruf prüfen",
         "Desinfektionsmittel": "",
         "Dienststatus": "Reinigung steht aus"
